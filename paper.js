@@ -1,7 +1,7 @@
-class Paper (){
-    constructor (x,y)
+class Paper {
+    constructor (x,y){
     var options = {
-        'radius: 70'
+        'radius': 70
     }
 this.image = loadImage("sprites/paper.png")
     
